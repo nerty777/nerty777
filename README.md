@@ -30,4 +30,4 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivankozhyn&hide=shell&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerty777&hide=shell&layout=compact)
